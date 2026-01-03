@@ -1,7 +1,7 @@
 import "./App.css";
 import About from "./Components/About";
 import Home from "./Components/Home";
-import Admission from "./Components/admission";
+import Admission from "./Components/Admission";
 import Topbar from "./Components/Topbar";
 import Foundation from "./Components/Foundation";
 import Career from "./Components/Career";

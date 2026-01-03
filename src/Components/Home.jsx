@@ -3,7 +3,7 @@ import picture from "../assets/student1.jpg";
 import "./Home.css";
  import picturee from "../assets/image14.png";
  import About from "./About";
- import Admission from "./admission";
+ import Admission from "./Admission";
  import Foundation from "./Foundation";
  import Career from "./Career";
 

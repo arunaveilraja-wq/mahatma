@@ -1,6 +1,6 @@
 import React from 'react'
 import { NavLink } from 'react-router-dom'
-import './Compoents/Sidenav.css'
+import './Components/Sidenav.css'
 
 const Sidenav = () => {
   return (
