@@ -1,0 +1,28 @@
+.navlink{
+    color: #066aab;
+    text-decoration: none;
+    gap: 0px;
+    padding: 20px;
+    font-size: larger;
+    font-weight:bolder;
+    border-right:2px solid yellow ;
+    
+
+}
+.content{
+    display: flex;
+    align-items: center;
+    height:20px;
+    overflow: hidden;
+   
+}
+/* .navlink {
+  margin: 0 10px;
+  text-decoration: none;
+  color: #066aab;
+  font-weight: 500;
+}
+
+.navlink.active {
+  border-bottom: 2px solid #066aab;
+} */

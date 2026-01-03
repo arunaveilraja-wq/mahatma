@@ -1,0 +1,36 @@
+.side{
+    
+    font-size:22px;
+    font-weight: bold;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+    height: 200px;
+    padding: 15px;
+    color: white;
+    text-decoration: none;
+    margin-top: 20px;  
+
+}
+.sidehead{
+   
+position: fixed;
+/* gap: 30px; */
+transform: rotate(180deg);
+display:flex;
+writing-mode:vertical-lr;
+text-orientation:left top;
+direction:ltr;
+text-align: center;
+justify-content: left;
+align-items: center;
+height:90vh;
+/* height: 200px; */
+/* grid-template-rows: repeat(100px,1fr); */
+
+}
+.grid-color1{
+    padding: 5px;
+    background-color: blue;
+    color: white;
+
+}

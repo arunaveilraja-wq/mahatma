@@ -1,0 +1,66 @@
+.admis{
+ 
+    background-image: url(../assets/babyscie.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.parent{
+    background-image: url(../assets/parent_child.png);
+    width: 50%;
+    height: 100%;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    
+     /* display: flex;
+    align-items: center;
+    justify-content: center; */
+}
+.container-admis{
+ width: 100vw;
+  height: 100vh;
+
+  display: flex;  
+    
+}
+.admis-para{
+    width: 50%;
+  height: 100%;
+  padding: 60px 80px;        /* better spacing */
+
+  text-align: left; 
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+ 
+}
+
+.admis-para h1 {
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+  line-height: 1.2;
+}
+.admis-para p {
+  font-size: 1.1rem;
+  line-height: 1.7;          /* 🔥 readability */
+  margin-bottom: 30px;
+  color: #444;
+  max-width: 600px;          /* 🔥 prevents too-wide text */
+}
+.admis-para button {
+    
+  width: fit-content;
+  padding: 12px 24px;
+  font-size: 1rem;
+  cursor: pointer;
+  border-radius: 5px;
+  border: 1px solid rgb(135, 127, 127);
+}
