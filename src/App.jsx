@@ -1,10 +1,10 @@
 import "./App.css";
-import About from "./Compoents/About";
-import Home from "./Compoents/Home";
-import Admission from "./Compoents/admission";
-import Topbar from "./Compoents/Topbar";
-import Foundation from "./Compoents/Foundation";
-import Career from "./Compoents/Career";
+import About from "./Components/About";
+import Home from "./Components/Home";
+import Admission from "./Components/admission";
+import Topbar from "./Components/Topbar";
+import Foundation from "./Components/Foundation";
+import Career from "./Components/Career";
 import { Route,Routes } from "react-router-dom";
 import Sidenav from "./Sidenav";
 
